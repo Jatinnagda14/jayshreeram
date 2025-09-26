@@ -1,2 +1,3 @@
 print("jay siya ram")
-input("your name")
+name =input("your name")
+print(name)
